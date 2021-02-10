@@ -1,1 +1,2 @@
 Testing with git on my computer
+Testing commit with visual studio!
